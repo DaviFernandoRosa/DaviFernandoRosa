@@ -1,13 +1,11 @@
 ### Hello World eu sou Davi Fernando Rosa 👋
-
+<img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
 - 👨‍🎓 Graduação em Analise Desenvolvimento de Sistemas.
 - 👨‍💻 Hoje trabalho como Dev Full Stack  ...
 - 📚 Estudando TypeScript  ...
 - 📈 Espero colaborar com meus projetos🤗🚀 ....
 
-<div>
-   <img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
-</div>
+
 <div align="center">
  
   <a href="https://github.com/davifernandorosa">

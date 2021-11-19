@@ -1,5 +1,5 @@
 ### Hello World eu sou Davi Fernando Rosa 👋
-<img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
+
 - 👨‍🎓 Graduação em Analise Desenvolvimento de Sistemas.
 - 👨‍💻 Hoje trabalho como Dev Full Stack  ...
 - 📚 Estudando TypeScript  ...
@@ -23,6 +23,7 @@
   <img align="center" alt="davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="davi-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="davi-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+ <img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
   
 </div>
   

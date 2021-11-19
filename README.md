@@ -5,12 +5,12 @@
 - 📚 Estudando TypeScript  ...
 - 📈 Espero colaborar com meus projetos🤗🚀 ....
 
-
+<img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
 <div align="center">
   <a href="https://github.com/davifernandorosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davifernandorosa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davifernandorosa&layout=compact&langs_count=7&theme=dark"/>
-    <img width="300" src="https://lh4.googleusercontent.com/-xdGTklY01qA/UiF8b20d2-I/AAAAAAAAdKM/5yw8RNCw3TM/w400-h300-no/cafe-quentinho.gif" align="right">
+    
 </div>
 
 <div style="display: inline_block"><br>

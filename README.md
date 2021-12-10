@@ -5,7 +5,6 @@
 - 📚 Estudando Apache NiFi  ...
 - 📈 Espero colaborar com meus projetos🤗🚀 ....
 
-
 <div align="center">
  
   <a href="https://github.com/davifernandorosa">

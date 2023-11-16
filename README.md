@@ -1,5 +1,7 @@
 ### Hello World eu sou Davi Fernando Rosa 👋
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 - 👨‍🎓 Graduação em Analise Desenvolvimento de Sistemas.
 - 👨‍💻 Hoje trabalho como Dev Full Stack  ...
 - 📚 Estudando TypeScript  ...
